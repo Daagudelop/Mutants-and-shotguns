@@ -1,0 +1,61 @@
+Things to do:
+
+>Character sheet
+  >Nombre
+  >Raza
+  >Profesion
+  >Experiencia
+    >Nivel
+      >Titulo
+  >Caracteristicas // Min 0 Max 10, media normal 2, media facil 5, media dificil 1
+    >Fuerza
+    >Agilidad
+    >Resistencia
+    >Inteliegencia
+    >Encanto
+    >Persepcion
+  
+  >Habilidades // siendo 100 el maximo  base posible
+    >Sigilo
+      > (INT+PER)*5
+    >Negocios
+      > (INT+ENC)*5
+    >Supervivencia
+      > (INT+RES)*5
+    >Medicina
+      > (INT)*10
+    >Reparacion
+      > (INT+FUE)*5
+    >Punteria
+      > (PER)*10 
+    >Ciencia
+      > (INT)*8 + (PER)*2
+    >Investigacion
+      > (PER + INT)*5
+    >lucha
+      > (FUE+RES)*5
+    >Cordinacion
+      > (AGI)*8 + (PER)*2
+    >Inspiración
+      > (ENC)*10
+    >Historia
+      > (INT)*7+(ENC)*3
+    >Seducción
+      > (ENC)*8+(PER)*2
+    >Gimnasia
+      >(RES)*3+(AGI)*7
+    >intimidación
+      >(ENC)*4 + (FUE)*6
+
+>Masters Console
+
+>Gameplay
+  >Perks
+  >Playable charactes
+    >Companions
+  >npc
+  >Vehicles
+  >Bases
+  >Enemies
+  >Guns
+  >Items
